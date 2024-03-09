@@ -5,3 +5,6 @@ course1 Supervised Machine Learning: Regression and Classification
 
 
 course2 Advanced Learning Algorithms
+
+
+course3 Unsupervised Learning, Recommenders, Reinforcement Learning
